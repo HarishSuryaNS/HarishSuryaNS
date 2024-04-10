@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harish Surya
-- 👀 I’m interested in Chess, Mechanics, Gamming
-- 🌱 I’m currently learning Diploma in Mechanical Engineering 
+- 👀 I’m interested in Mechanics
+- 🌱 I’m currently persueing Diploma in Mechanical Engineering 
 - 📫 How to reach me nsharishsurya@gmail.com
 <!---
 HarishSuryaNS/HarishSuryaNS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
