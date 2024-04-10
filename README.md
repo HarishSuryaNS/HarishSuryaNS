@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harish Surya
-- 👀 I’m interested in Mechanics
+- 👀 I’m interested in Mechanics and Chess
 - 🌱 I’m currently persueing Diploma in Mechanical Engineering 
 - 📫 How to reach me nsharishsurya@gmail.com
 <!---
